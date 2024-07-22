@@ -5,7 +5,6 @@ permalink: /ai-society/
 excerpt_separator: <!--more-->
 categories: [general]
 mathjax: true
-published: true
 ---
 
 
