@@ -3,7 +3,7 @@ layout: post
 title: О социологии
 permalink: /ai-society/
 excerpt_separator: <!--more-->
-categories: [general, thought]
+categories: [general]
 mathjax: true
 published: true
 ---
