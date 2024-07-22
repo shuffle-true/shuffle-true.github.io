@@ -90,4 +90,5 @@ exclude:
   - README.md
   - CNAME
   - .gitignore
+  - vendor
 
