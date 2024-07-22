@@ -5,6 +5,7 @@ permalink: /ecole-after-3-months/
 excerpt_separator: <!--more-->
 categories: [lifestyle]
 mathjax: true
+published: false
 ---
 
 
