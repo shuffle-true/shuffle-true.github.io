@@ -3,7 +3,7 @@ layout: page
 title: Good Idea Is All You Need
 ---
 
-{% if paginator.previous_page %}
+{% if not paginator.previous_page %}
 
 Преодоление разрыва между философией и одной из критических отраслей промышленности 21 века.
 
@@ -11,7 +11,7 @@ title: Good Idea Is All You Need
 
 Портал аналитики по социалогическим, политическим, философским и промышленным аспектам ИИ. Место для дискуссий.
 
-<image src="images/main-page-logo.jpeg">
+<image src="{{site.baseurl}}/images/main-page-logo.jpeg">
 
 {% endif %}
 
