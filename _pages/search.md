@@ -2,7 +2,7 @@
 layout: page
 title: Search
 permalink: /search/
-published: false
+published: true
 
 ---
 
