@@ -178,7 +178,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #fff;
   }
 }
 
@@ -703,7 +703,7 @@ Modules - reusable parts of our design
   border: none;
   background-color: #FF9900;
   border-radius: 50px;
-  color: #fff;
+  color: #000;
 }
 
 .pagination a, .pagination span {
